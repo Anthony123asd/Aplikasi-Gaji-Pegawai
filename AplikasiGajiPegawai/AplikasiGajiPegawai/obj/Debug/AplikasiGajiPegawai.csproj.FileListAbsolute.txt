@@ -1,0 +1,10 @@
+c:\users\cppprg07-03\documents\visual studio 2010\Projects\AplikasiGajiPegawai\AplikasiGajiPegawai\bin\AplikasiGajiPegawai.dll
+c:\users\cppprg07-03\documents\visual studio 2010\Projects\AplikasiGajiPegawai\AplikasiGajiPegawai\bin\AplikasiGajiPegawai.pdb
+c:\users\cppprg07-03\documents\visual studio 2010\Projects\AplikasiGajiPegawai\AplikasiGajiPegawai\obj\Debug\AplikasiGajiPegawai.dll
+c:\users\cppprg07-03\documents\visual studio 2010\Projects\AplikasiGajiPegawai\AplikasiGajiPegawai\obj\Debug\AplikasiGajiPegawai.pdb
+C:\Users\Anthony\OneDrive\IT & Shits\ASP.NET\AplikasiGajiPegawai\AplikasiGajiPegawai\bin\AplikasiGajiPegawai.dll.config
+C:\Users\Anthony\OneDrive\IT & Shits\ASP.NET\AplikasiGajiPegawai\AplikasiGajiPegawai\bin\AplikasiGajiPegawai.dll
+C:\Users\Anthony\OneDrive\IT & Shits\ASP.NET\AplikasiGajiPegawai\AplikasiGajiPegawai\bin\AplikasiGajiPegawai.pdb
+C:\Users\Anthony\OneDrive\IT & Shits\ASP.NET\AplikasiGajiPegawai\AplikasiGajiPegawai\obj\Debug\AplikasiGajiPegawai.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\OneDrive\IT & Shits\ASP.NET\AplikasiGajiPegawai\AplikasiGajiPegawai\obj\Debug\AplikasiGajiPegawai.dll
+C:\Users\Anthony\OneDrive\IT & Shits\ASP.NET\AplikasiGajiPegawai\AplikasiGajiPegawai\obj\Debug\AplikasiGajiPegawai.pdb
